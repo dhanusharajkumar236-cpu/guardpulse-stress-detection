@@ -1,0 +1,27 @@
+# Core ML and Data Processing
+scikit-learn==1.3.2
+torch==2.1.1
+torchvision==0.16.1
+pandas==2.1.3
+numpy==1.24.3
+
+# Signal Processing and Feature Engineering
+scipy==1.11.4
+neurokit2==0.2.7
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Utilities
+joblib==1.3.2
+pyyaml==6.0.1
+python-dotenv==1.0.0
+
+# Jupyter
+jupyter==1.0.0
+ipython==8.18.1
+
+# Hardware (optional)
+pyserial==3.5
+ESP32-micropython==1.20.0
